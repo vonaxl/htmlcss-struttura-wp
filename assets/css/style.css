@@ -37,6 +37,38 @@ section{
   height: 550px;
 }
 
+.maindivider{
+  background-color: lightblue;
+  height: 100%;
+}
+
+.maindivider:after{
+  content: "";
+  display: table;
+  clear: both;
+}
+
+.organicthemes{
+  float: left;
+  width: 25%;
+  background-color: lightyellow;
+  border: 1px solid black;
+  height: 50%;
+}
+.threecolumn{
+  float: left;
+  width: 50%;
+  background-color: lightyellow;
+  border: 1px solid black;
+  height: 33%;
+}
+.textwidget{
+  float: right;
+  width: 25%;
+  background-color: lightyellow;
+  border: 1px solid black;
+  height: 100%;
+}
 
 footer{
   background-color: red;
