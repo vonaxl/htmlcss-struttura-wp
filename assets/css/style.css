@@ -70,16 +70,16 @@ section{
   width: 25%;
   background-color: yellow;
   border: 1px solid black;
-  height: 600px;
+  margin: auto;
 }
 
 .textsection{
-  float: none;
-  background-color: orange;
+  position: relative;
+  height: 200px;
+  width: auto;
   border: 1px solid black;
-  height: 33%;
-  width: 99%;
-  padding: 10px;
+  margin: 5px;
+  background-color: orange;
 }
 
 footer{
