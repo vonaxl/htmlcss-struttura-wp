@@ -63,7 +63,8 @@ section{
   width: 50%;
   background-color: yellow;
   border: 1px solid black;
-  height: 150px;
+  /* height: 150px; */
+  padding: 5px;
 }
 .textwidget{
   float: right;
