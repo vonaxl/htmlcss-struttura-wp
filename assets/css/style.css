@@ -16,19 +16,19 @@ body{
 
 header{
   background-color: green;
+  width: 100%;
+  height: 250px;
 }
 .fotocontainer{
   background-color: lightgreen;
-  width: 100%;
-  height: 200px;
-  border: 2px solid black;
+  height: 75%;
+  border: 1px solid black;
 }
 
 .navbar{
   background-color: lightgreen;
-  width: 100%;
-  height: 50px;
-  border: 2px solid black;
+  height: 24%;
+  border: 1px solid black;
 }
 
 section{
@@ -36,6 +36,7 @@ section{
   width: 100%;
   height: 550px;
 }
+
 
 footer{
   background-color: red;
